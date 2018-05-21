@@ -41,5 +41,6 @@ desc:which object we get property
 param:object
 ### result:
 desc: get result 
-param: give what if get none
+param: give the result if get none
+如果前面获取的属性值并不存在，则返回你指定的值，如果没有指定，则返回undefined
 如果是数组，则会按顺序对应get方法中获取的属性
