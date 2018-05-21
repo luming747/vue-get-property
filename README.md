@@ -23,10 +23,10 @@ get property from object in vue without the case : can't get 'xxx' from undefine
         }
       }
       
-    let {respCode,list,c,respData_data_b_c} = this.z_get.get('respCode','respData.list','respData.data.a.c','respData.data.b.c').from(res).result(-1,[],0,0);
+    let {respCode,list,c,respData_data_c_c} = this.z_get.get('respCode','respData.list','respData.data.a.c','respData.data.c.c').from(res).result(-1,[],0,0);
     
     
-    console.log(respCode,list,c,respData_data_a_c) //-1 [] 1 0
+    console.log(respCode,list,c,respData_data_c_c) //-1 [] 1 0
 
 # api
 ### z_get:
