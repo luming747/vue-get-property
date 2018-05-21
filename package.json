@@ -2,6 +2,7 @@
   "name": "vue-get-property",
   "version": "1.0.1",
   "description": "get property from object in vue",
+  "git repository":"https://github.com/luming747/vue-get-property.git",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
