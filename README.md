@@ -34,9 +34,11 @@ the instance of class
 ### get:
 desc:the property that get from object
 param:property name
+参数可以是一个属性，也可以是多个属性，更深层的属性使用.符号来获取
 ### from:
 desc:which object we get property
 param:object
 ### result:
 desc: get result 
 param: give what if get none
+如果是数组，则会按顺序对应get方法中获取的属性
