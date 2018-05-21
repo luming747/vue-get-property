@@ -2,6 +2,7 @@
 get property from object in vue without the case : can't get 'xxx' from undefined
 
 #example
+    
     import Vue from 'vue'
     import getProperty from 'vue-get-property'
 
