@@ -1,6 +1,6 @@
 {
   "name": "vue-get-property",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "get property from object in vue",
   "repository": {
     "type": "git",
@@ -17,5 +17,5 @@
     "undefined"
   ],
   "author": "MingLU",
-  "license": "ISC"
+  "license": "MIT"
 }
