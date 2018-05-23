@@ -1,12 +1,12 @@
 {
   "name": "vue-get-property",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "get property from object in vue",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/luming747/vue-get-property.git"
   },
-  "main": "index.js",
+  "main": "dist.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,5 +17,9 @@
     "undefined"
   ],
   "author": "MingLU",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
 }
